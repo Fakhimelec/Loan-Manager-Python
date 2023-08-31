@@ -1,0 +1,14 @@
+Modules Needed To Be Installed
+"python -m pip install 'Module_Name'"
+# PyQT5
+# pandas
+# numpy
+# pillow
+# arabic_reshaper
+# python_bidi
+# jdatetime
+# screeninfo
+# sys
+# os
+# warnings
+# openpyxl
